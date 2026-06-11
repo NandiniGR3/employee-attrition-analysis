@@ -1,0 +1,16 @@
+
+================ BUSINESS INSIGHTS ================
+
+1. Employees working overtime are more likely to resign.
+
+2. Lower salary employees show higher attrition.
+
+3. Poor work-life balance increases attrition risk.
+
+4. Younger employees tend to leave more frequently.
+
+5. Some departments have higher turnover rates.
+
+6. Job satisfaction strongly impacts retention.
+
+===================================================

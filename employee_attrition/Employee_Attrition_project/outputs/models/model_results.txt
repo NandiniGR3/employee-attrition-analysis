@@ -1,0 +1,8 @@
+=========== MODEL PERFORMANCE ===========
+
+Logistic Regression Accuracy: 0.8741496598639455
+Logistic Regression ROC-AUC: 0.675295029718322
+
+Random Forest Accuracy: 0.8299319727891157
+Random Forest ROC-AUC: 0.5369971573778964
+
